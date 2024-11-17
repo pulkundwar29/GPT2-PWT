@@ -66,4 +66,17 @@ This repository contains the implementation of a lightweight, modified version o
    ```bash
    git clone https://github.com/pulkundwar29/LangPWT
    cd LangPWT
-   
+   ```
+2.Create and activate a virtual environment:
+   ```bash
+   venv env
+   env\scripts\activate
+   ```
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+   Note: Different OS support different versions of PyTorch/Tensorflow to use CUDA (local GPU). Install only after verifying for your OS.
+4. Run the training file **trainpwt.py**
+5. Run the streamlit file: **trial_pwt.py**
+6. Enter your prompt and hit the Generate button.
