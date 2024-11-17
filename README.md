@@ -80,7 +80,6 @@ This repository contains the implementation of a lightweight, modified version o
   ```bash
   pip install -r requirements.txt
   ```
-  Note: Different OS support different versions of PyTorch/Tensorflow to use CUDA (local GPU). Install only after verifying for your OS. 
-4. Run the training file **trainpwt.py** 
+4. Run the training file **trainpwt.py**
 5. Run the streamlit file: **trial_pwt.py** 
 6. Enter your prompt and hit the Generate button.
