@@ -8,6 +8,10 @@ This repository contains the implementation of a lightweight, modified version o
 - **Open-Source Datasets**: Trained using publicly available FineWeb-Edu dataset to ensure accessibility and reproducibility.  
 - **Scalable Design**: Architecture optimized for experimentation and scalability while maintaining resource efficiency.  
 
+<div align="center">
+  <img src="LLM_drawio.png" alt="Description of the image" width="300">
+   <p><strong>Figure 1: Architecture of LangPWT</p>
+</div>
 
 ## Implementation Details  
 1. **Model Architecture**  
