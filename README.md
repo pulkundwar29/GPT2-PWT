@@ -67,7 +67,7 @@ This repository contains the implementation of a lightweight, modified version o
 git clone https://github.com/pulkundwar29/LangPWT
 cd LangPWT
 ```
-2.Create and activate a virtual environment:
+2. Create and activate a virtual environment:
 ```bash
 venv env
 env\scripts\activate
