@@ -63,7 +63,8 @@ This repository contains the implementation of a lightweight, modified version o
 - Python 3.8+  
 - PyTorch 2.0+ or TensorFlow 2.10+  
 - CUDA-enabled GPU with at least 4GB VRAM (recommended)  
-- Dependencies listed in `requirements.txt`  
+- Dependencies listed in `requirements.txt`
+- **Note**: Different OS support different versions of PyTorch/Tensorflow to use CUDA (local GPU). Install only after verifying for your OS. 
 
 ## Usage  
 1. Clone the repository:  
