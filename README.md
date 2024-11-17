@@ -49,6 +49,12 @@ This repository contains the implementation of a lightweight, modified version o
    - Final layer normalization (`ln_f`) ensures stable optimization.  
 
 
+## Current Status:
+1. Dataset Used: FineWeb-Edu (18.5 GB) entirely.
+2. Training Steps: 5000
+3. Time Taken: ~ 7 hours
+4. File format: .pt
+
 ## Requirements  
 - Python 3.8+  
 - PyTorch 2.0+ or TensorFlow 2.10+  
@@ -60,3 +66,4 @@ This repository contains the implementation of a lightweight, modified version o
    ```bash
    git clone https://github.com/pulkundwar29/LangPWT
    cd LangPWT
+   
