@@ -84,3 +84,8 @@ This repository contains the implementation of a lightweight, modified version o
 4. Run the training file **trainpwt.py**
 5. Run the streamlit file: **trial_pwt.py** 
 6. Enter your prompt and hit the Generate button.
+
+<div align="center">
+  <img src="ex2.png" alt="example text" width="300">
+   <p><strong>Figure 2: Example of Text Generated using LangPWT</p>
+</div>
