@@ -1,4 +1,4 @@
-# LangPWT: Miniaturized version of GPT-2 
+# LangPWT
 
 This repository contains the implementation of a lightweight, modified version of the GPT architecture **LangPWT** trained from scratch using FineWeb-Edu, an open-source dataset. The project demonstrates the design, training, and optimization of a custom natural language model on local hardware.  
 
@@ -9,7 +9,7 @@ This repository contains the implementation of a lightweight, modified version o
 - **Scalable Design**: Architecture optimized for experimentation and scalability while maintaining resource efficiency.  
 
 <div align="center">
-  <img src="LLM_drawio.png" alt="Description of the image" width="300">
+  <img src="LLM.drawio.png" alt="Description of the image" width="300">
    <p><strong>Figure 1: Architecture of LangPWT</p>
 </div>
 
