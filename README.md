@@ -86,6 +86,6 @@ This repository contains the implementation of a lightweight, modified version o
 6. Enter your prompt and hit the Generate button.
 
 <div align="center">
-  <img src="ex2.png" alt="example text">
+  <img src="ex1.png" alt="example text">
    <p><strong>Figure 2: Example of Text Generated using LangPWT</p>
 </div>
